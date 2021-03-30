@@ -30,7 +30,7 @@ packaging==20.4
 pandas==1.0.5
 pkginfo==1.5.0.1
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 pyhelpers==1.2.2
 pyparsing==2.4.7
 pyproj==2.6.1.post1
