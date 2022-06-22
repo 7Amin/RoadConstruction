@@ -23,7 +23,7 @@ keyring==21.2.1
 lxml==4.5.2
 more-itertools==8.4.0
 munch==2.5.0
-numpy==1.19.1
+numpy==1.22.0
 openpyxl==3.0.4
 osmium==3.0.1
 packaging==20.4
